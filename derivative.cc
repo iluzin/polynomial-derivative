@@ -1,4 +1,4 @@
-#include <vector>
+#include "derivative.h"
 
 int power(int x, unsigned int degree) {
     if (degree < 2) {
