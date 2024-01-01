@@ -1,2 +1,2 @@
 # polynomial-derivative
-The problem of searching for the derivative of a simple polynomial
+The problem is simple - to find the derivative of the polynomial. A polynomial can be large, but only with non-negative integer powers and integer coefficients. The real story is generally about how best to present it in memory. The output should be without spaces and in descending order of degrees, although the input may not satisfy this rule. A polynomial with unexpected terms can also be submitted for input.
